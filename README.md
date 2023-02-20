@@ -1,4 +1,3 @@
-# <!DOCTYPE html>
 <html>	
 	<head>
 	<title>Project About Whales</title>
